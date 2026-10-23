@@ -1,0 +1,6 @@
+{
+  "name": "HUỆ LEARNING - Quản Lý Học Tập Thông Minh",
+  "description": "Hệ thống dạy học và quản lý học tập thông minh dành cho giáo viên Trường THPT Nguyễn Huệ - Thầy Tấn Thanh (Giáo viên Hóa học).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
